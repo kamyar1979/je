@@ -1,0 +1,8 @@
+{
+	"name": "je",
+	"authors": [
+		"Kamyar Inanloo"
+	],
+	"description": "Json editor.",
+	"license": "BSD"
+}
